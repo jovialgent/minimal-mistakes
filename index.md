@@ -1,7 +1,6 @@
 ---
-layout: page
-title: iVXjs
-id: home
+layout: archive
+author_profile: true
 ---
 
 # iVXjs 
